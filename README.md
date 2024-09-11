@@ -6,10 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=SwanFlutter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-👋 Hi, I’m @SwanFlutter
-👀 I’m interested in ... I’m interested in coding and new challenges
-🌱 I’m currently learning ... I’m currently learning PHP
-💞️ I’m looking to collaborate on ... I’m looking to collaborate with a company
+About Me:
+👋 Hi, I’m @SwanFlutter. </br>
+👀 I’m interested in ... I’m interested in coding and new challenges. </br>
+🌱 I’m currently learning ... I’m currently learning PHP. </br>
+💞️ I’m looking to collaborate on ... I’m looking to collaborate with a company. </br>
 📫 How to reach me ...
 😄 Pronouns: ...
 ⚡ Fun fact: ...
