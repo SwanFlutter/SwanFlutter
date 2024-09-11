@@ -16,9 +16,9 @@
 
 
 ## 🌐 Connect with Me:
-[![LinkedIn](linkedin.com/in/sajjad-karimi-0a29a9278) 
-[![Instagram]() 
-[![X]() 
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ] (linkedin.com/in/sajjad-karimi-0a29a9278) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ] 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
