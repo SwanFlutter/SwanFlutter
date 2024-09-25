@@ -29,7 +29,10 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwanFlutter&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
