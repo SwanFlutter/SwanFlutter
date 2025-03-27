@@ -28,12 +28,8 @@
 ![PHP](https://img.shields.io/badge/php-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 
-# 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)
-
-
-## 📊 Overall GitHub Stats
+## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27&cache_seconds=3600)
 
 ## 🗣 Programming Languages
