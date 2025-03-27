@@ -36,7 +36,8 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwanFlutter&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=3600)
 
 ## 🔥 Activity Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwanFlutter&theme=dark&hide_border=false&date_format=M%20j[,Y]&cache_seconds=3600)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwanFlutter&theme=dark&hide_border=false&date_format=M%20j[,Y])](https://git.io/streak-stats)
+
 
 ## 🏆 Achievements (Trophies)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwanFlutter&theme=onedark&no-frame=false&margin-w=15&margin-h=15)
