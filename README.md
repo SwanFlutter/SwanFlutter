@@ -32,6 +32,19 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)
 
+
+## 📊 Overall GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27&cache_seconds=3600)
+
+## 🗣 Programming Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwanFlutter&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=3600)
+
+## 🔥 Activity Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwanFlutter&theme=dark&hide_border=false&date_format=M%20j[,Y]&cache_seconds=3600)
+
+## 🏆 Achievements (Trophies)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwanFlutter&theme=onedark&no-frame=false&margin-w=15&margin-h=15)
+
 <!---
 SwanFlutter/SwanFlutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
