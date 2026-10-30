@@ -1,48 +1,91 @@
+<div align="center">
 
-<h1 align="center">Hello 👋, I'm Sajjad Karimi </h1>
-<h3 align="center">A Passionate Flutter Developer </h3>
+# Hi 👋, I'm Sajjad Karimi
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwanFlutter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+### Flutter & Dart Developer · Open-Source Publisher on pub.dev
+
+Building cross-platform apps and developer tools. 40+ published packages, 90+ repositories.
+
+<a href="https://pub.dev/publishers/swanflutterdev.com/packages"><img src="https://img.shields.io/badge/pub.dev-Verified%20Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev publisher" /></a>
+<img src="https://komarev.com/ghpvc/?username=SwanFlutter&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/SwanFlutter?tab=followers"><img src="https://img.shields.io/github/followers/SwanFlutter?style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I build open-source Flutter/Dart packages and full cross-platform applications
+- 🌱 Currently learning **PHP** (backend, Telegram bots)
+- 🤝 Open to collaborating with companies and teams
+- 📦 Verified publisher on pub.dev: [swanflutterdev.com](https://pub.dev/publishers/swanflutterdev.com/packages)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/sajjad-karimi-0a29a9278) · <!-- add your email here -->
+
+## 🌐 Connect
+
+<p>
+  <a href="https://linkedin.com/in/sajjad-karimi-0a29a9278"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pub.dev/publishers/swanflutterdev.com/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+  <!-- <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
+  <!-- <a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> -->
 </p>
 
-# About Me:
+## 💻 Tech Stack
 
-👋 Hi, I’m @SwanFlutter. </br>
-👀 I’m interested in ... I’m interested in coding and new challenges. </br>
-🌱 I’m currently learning ... I’m currently learning PHP. </br>
-💞️ I’m looking to collaborate on ... I’m looking to collaborate with a company. </br>
-📫 How to reach me ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📦 Featured Packages
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sajjad-karimi-0a29a9278) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
+| Package | Version | Likes | Description |
+|---|---|---|---|
+| [get_x_master](https://pub.dev/packages/get_x_master) | ![v](https://img.shields.io/pub/v/get_x_master?color=0175C2) | ![likes](https://img.shields.io/pub/likes/get_x_master) | GetX-inspired state management |
+| [flutter_media_cache](https://pub.dev/packages/flutter_media_cache) | ![v](https://img.shields.io/pub/v/flutter_media_cache?color=0175C2) | ![likes](https://img.shields.io/pub/likes/flutter_media_cache) | Media caching |
+| [notification_master](https://pub.dev/packages/notification_master) | ![v](https://img.shields.io/pub/v/notification_master?color=0175C2) | ![likes](https://img.shields.io/pub/likes/notification_master) | Notifications |
+| [permission_master](https://pub.dev/packages/permission_master) | ![v](https://img.shields.io/pub/v/permission_master?color=0175C2) | ![likes](https://img.shields.io/pub/likes/permission_master) | Permission handling |
+| [http_api_ninja](https://pub.dev/packages/http_api_ninja) | ![v](https://img.shields.io/pub/v/http_api_ninja?color=0175C2) | ![likes](https://img.shields.io/pub/likes/http_api_ninja) | HTTP API client |
+| [palette_generator_master](https://pub.dev/packages/palette_generator_master) | ![v](https://img.shields.io/pub/v/palette_generator_master?color=0175C2) | ![likes](https://img.shields.io/pub/likes/palette_generator_master) | Color palette extraction |
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+## 📊 GitHub Stats & Rank
 
+<!-- Option A: generated by the GitHub Action in .github/workflows/metrics.yml (reliable, no rate limits) -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
 
+<!-- Option B: live cards (can hit rate limits on shared servers, so these are only a fallback) -->
+<p align="center">
+  <a href="https://github.com/SwanFlutter">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SwanFlutter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub stats and rank" />
+  </a>
+  <a href="https://github.com/SwanFlutter">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwanFlutter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </a>
+</p>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SwanFlutter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27&cache_seconds=3600)
+## 🔥 Contributions & Streak
 
-## 🗣 Programming Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwanFlutter&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=3600)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SwanFlutter&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
 
-## 🔥 Activity Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwanFlutter&theme=dark&hide_border=false&date_format=M%20j[,Y])](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanFlutter&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
+## 🏆 Trophies
 
-## 🏆 Achievements (Trophies)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwanFlutter&theme=onedark&no-frame=false&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SwanFlutter&theme=onedark&no-frame=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" />
+</p>
 
-<!---
-SwanFlutter/SwanFlutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  <sub>⭐ If one of my packages helped you, a like on pub.dev or a star on GitHub means a lot.</sub>
+</div>
