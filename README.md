@@ -63,10 +63,6 @@ Building cross-platform apps and developer tools. 40+ published packages, 90+ re
   <img src="https://streak-stats.demolab.com/?user=SwanFlutter&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanFlutter&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
 ---
 
 <div align="center">
